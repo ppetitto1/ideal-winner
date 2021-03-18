@@ -3,14 +3,15 @@
 Welcome to the Billing Submission Application. 
 
 INSTALLATION INSTRUCTIONS
-Download the fa001.exe
-Download the fa001.exe.blockmap
-Download the latest.yml
 
-Run the .exe
+1. Download the fa001.exe
+2. Download the fa001.exe.blockmap
+3. Download the latest.yml
 
-Hit "More Info"
+4. Run the .exe
 
-Hit "Run Anyway"
+5. If flagged for security concern, 
+--Hit "More Info"
+--Hit "Run Anyway"
 
-Install for only yourself
+6. Install for only yourself
